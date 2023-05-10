@@ -8,4 +8,4 @@ If you open more than one picture you can use left and right buttons to swipe be
 
 
 ![imageviewer1](https://github.com/dguncevic/imageviewer/assets/132295836/1a1b0720-f894-4c8d-9189-b2a20264396a)
-![imageviewer2](https://github.com/dguncevic/imageviewer/assets/132295836/83f911d0-9d5b-4ea1-acba-18a7549e620d)
+![imageviewer2](https://github.com/dguncevic/imageviewer/assets/132295836/71bb4a16-538b-4eec-ad4c-2f53db0ab037)
